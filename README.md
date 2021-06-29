@@ -13,8 +13,8 @@ Here, <br>
 | T  | any data type |
 | array  | input array [1-based indexing] |
 | array_siz [int]  | size of the input array  |
-| default_return value  | when a range is not possible it returns this value <br> (varies with requirements) |
-|  merger   | function defined the .cpp file specifying the operation to be performed |
+| default_return_value  | when a range is not possible it returns this value <br> (varies with requirements) |
+|  merger   | function defined in the .cpp file specifying the operation to be performed |
 
 **merger() implementation:**
 ```
